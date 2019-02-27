@@ -1,7 +1,12 @@
 ---
-layout: archiv
+layout: archive
 permalink: /contact/
+author_profile: ture
+title: "Contact"
 ---
+  
+  
+&nbsp;
 
 Image Analysis and Learning Group  
 Heidelberg Collaboratory for Image Processing (HCI)  
