@@ -27,3 +27,7 @@ Work experience
 Publications
 ===
 
+__E. Kirschbaum__, M. Haußmann, S. Wolf, H. Sonntag, J. Schneider, S. Elzoheiry, O. Kann, D. Durstwitz, F. A. Hamprecht: _[LeMoNADe: Learned Motif and Neuronal Assembly Detection in calcium imaging videos](https://openreview.net/pdf?id=SkloDjAqYm)_, ICLR Proceedings, 2019.
+
+S. Peter, __E. Kirschbaum__, M. Both, L. A. Campbell, B. K. Harvey, C. Heins, D. Durstewitz, F. Diego, F. A. Hamprecht: _[Sparse convolutional coding for neuronal assembly detection](https://papers.nips.cc/paper/6958-sparse-convolutional-coding-for-neuronal-assembly-detection)_, NIPS Proceedings, 2017.
+
