@@ -9,7 +9,8 @@ author_profile: true
   
 &nbsp;
 
-# [LeMoNADe: Learned Motif and Neuronal Assembly Detection in calcium imaging videos](https://openreview.net/pdf?id=SkloDjAqYm)
+[LeMoNADe: Learned Motif and Neuronal Assembly Detection in calcium imaging videos](https://openreview.net/pdf?id=SkloDjAqYm)
+===
 
 __TL;DR:__ We present LeMoNADe, an end-to-end learned motif detection method directly operating on calcium imaging videos.
 
@@ -18,7 +19,8 @@ __Abstract:__ Neuronal assemblies, loosely defined as subsets of neurons with re
 __E. Kirschbaum__, M. Haußmann, S. Wolf, H. Sonntag, J. Schneider, S. Elzoheiry, O. Kann, D. Durstwitz, F. A. Hamprecht: _LeMoNADe: Learned Motif and Neuronal Assembly Detection in calcium imaging videos_, ICLR Proceedings, 2019.
 
 
-# [Sparse convolutional coding for neuronal assembly detection](https://papers.nips.cc/paper/6958-sparse-convolutional-coding-for-neuronal-assembly-detection)
+[Sparse convolutional coding for neuronal assembly detection](https://papers.nips.cc/paper/6958-sparse-convolutional-coding-for-neuronal-assembly-detection)
+===
 
 __TL;DR:__ We present a motif detection method based on NMF which outperforms established methods in detecting motifs with temporal structure.
 
