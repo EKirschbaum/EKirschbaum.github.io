@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Elke Kirschbaum"
 title_separator          : "-"
 name                     : &name "Elke Kirschbaum"
-description              : &description "PhD Student in the Image Analysis and Learning Group at the Interdisciplinary Center for Scientific Computing (IWR), Heidelberg University"
+description              : &description "PhD Student in the Image Analysis and Learning Group at Heidelberg University"
 url                      : https://EKirschbaum.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EKirschbaum.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Elke Kirschbaum"
   avatar           : "Photo_2018_klein.png"
-  bio              : "PhD Student in the Image Analysis and Learning Group at the Interdisciplinary Center for Scientific Computing (IWR), Heidelberg University"
+  bio              : "PhD Student in the Image Analysis and Learning Group at Heidelberg University"
   location         : "Heidelberg, Germany"
   employer         : 
   googlescholar    : "https://scholar.google.de/citations?user=N8zEgccAAAAJ&hl=de&oi=ao"
