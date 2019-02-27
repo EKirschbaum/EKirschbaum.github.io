@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Elke Kirschbaum"
   avatar           : "profile.png"
-  bio              : "PhD Student in the Image Analysis and Learning Group"
-  location         : "Im Neuenheimer Feld 205, 69120 Heidelberg, Germany"
-  employer         : "Interdisciplinary Center for Scientific Computing (IWR), Heidelberg University"
+  bio              : "PhD Student in the Image Analysis and Learning Group at the Interdisciplinary Center for Scientific Computing (IWR), Heidelberg University"
+  location         : "Heidelberg, Germany"
+  employer         : 
   googlescholar    : "https://scholar.google.de/citations?user=N8zEgccAAAAJ&hl=de&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
