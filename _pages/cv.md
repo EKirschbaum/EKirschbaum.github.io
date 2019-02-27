@@ -11,9 +11,9 @@ redirect_from:
 
 Academic Background
 ======
-* since 2015: Ph.D. Student at the Image Analysis and Learning Group at Heidelberg University  
-* 2014--2015: M.Sc. in Physics, University of Tübingen  
-* 2010--2014: B.Sc. in Physics, University of Tübingen
+* since 2015: PhD Student at the Image Analysis and Learning Group at Heidelberg University  
+* 2014--2015: MSc in Physics, University of Tübingen  
+* 2010--2014: BSc in Physics, University of Tübingen
 
 Work experience
 ======
