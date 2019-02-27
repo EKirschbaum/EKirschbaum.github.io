@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /contact/
-author_profile: ture
+author_profile: true
 title: "Contact"
 ---
   
@@ -17,4 +17,4 @@ Im Neuenheimer Feld 205
 D-69120 Heidelberg  
 Room: A04.305  
 Phone: +49 (0) 6221 54 14619  
-E-mail: elke.kirschbaum@iwr.uni-heidelberg.de  
+E-mail: [mail](mailto:elke.kirschbaum@iwr.uni-heidelberg.de)  
