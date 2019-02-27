@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
   
    
-%nbsp;  
+&nbsp;  
 
 Academic Background
 ======
