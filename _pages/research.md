@@ -1,5 +1,6 @@
   
-  
+{% include base_path %}
+
 &nbsp;  
 
 In the first part of my PhD I worked on a method that detects repeating motifs in neuronal spike matrices. These spike matrices contain descrete one-or-zero spiking events for each observed neuron. The method was based on non-negative matrix factorisation (NMF) with certain constraints that were selected such that they go along well with the nature of neuronal assemblies. The method out-performed previously mainly used methods for the detection of neuronal assemblies. This method was [published at NIPS 2017](https://papers.nips.cc/paper/6958-sparse-convolutional-coding-for-neuronal-assembly-detection) and [code is available on GitHub](https://github.com/sccfnad/Sparse-convolutional-coding-for-neuronal-assembly-detection).
