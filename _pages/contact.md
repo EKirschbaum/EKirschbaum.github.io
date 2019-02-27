@@ -1,3 +1,8 @@
+---
+layout: archiv
+permalink: /contact/
+---
+
 Image Analysis and Learning Group  
 Heidelberg Collaboratory for Image Processing (HCI)  
 Interdisciplinary Center for Scientific Computing (IWR)  
