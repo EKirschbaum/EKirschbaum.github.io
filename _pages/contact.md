@@ -4,6 +4,7 @@ permalink: /contact/
 author_profile: true
 title: "Contact"
 ---
+{% include base_path %}
   
   
 &nbsp;
