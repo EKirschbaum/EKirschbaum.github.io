@@ -9,7 +9,7 @@ author_profile: true
   
 &nbsp;
 
-#lemonade
+
 [LeMoNADe: Learned Motif and Neuronal Assembly Detection in calcium imaging videos](https://openreview.net/forum?id=SkloDjAqYm)
 ===
 
