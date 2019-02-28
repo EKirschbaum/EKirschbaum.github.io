@@ -9,7 +9,8 @@ author_profile: true
   
 &nbsp;
 
-[LeMoNADe: Learned Motif and Neuronal Assembly Detection in calcium imaging videos](https://openreview.net/pdf?id=SkloDjAqYm)
+#lemonade
+[LeMoNADe: Learned Motif and Neuronal Assembly Detection in calcium imaging videos](https://openreview.net/forum?id=SkloDjAqYm)
 ===
 
 __TL;DR:__ We present LeMoNADe, an end-to-end learned motif detection method directly operating on calcium imaging videos.
