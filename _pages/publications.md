@@ -10,6 +10,14 @@ author_profile: true
 &nbsp;
 
 
+[DISCo: Deep learning, Instance Segmentation, and Correlations for cell segmentation in caclium imaging](https://arxiv.org/abs/1908.07957)
+===
+
+__Abstract:__ Calcium imaging is one of the most important tools in neurophysiology as it enables the observation of neuronal activity for hundreds of cells in parallel and at single-cell resolution. In order to use the data gained with calcium imaging, it is necessary to extract individual cells and their activity from the recordings. We present DISCo, a novel approach for the cell segmentation in calcium imaging videos. We use temporal information from the recordings in a computationally efficient way by computing correlations between pixels and combine it with shape-based information to identify active as well as non-active cells. We first learn to predict whether two pixels belong to the same cell; this information is summarized in an undirected, edge-weighted grid graph which we then partition. In so doing, we approximately solve the NP-hard correlation clustering problem with a recently proposed greedy algorithm. Evaluating our method on the Neurofinder public benchmark shows that DISCo outperforms all existing models trained on these datasets.
+
+__E. Kirschbaum__, A. Bailoni, F. A. Hamrpecht: _DISCo: Deep learning, Instance Segmentation, and Correlations for cell segmentation in calcium imaging_, arXiv:1908.07957, 2019.
+
+
 [LeMoNADe: Learned Motif and Neuronal Assembly Detection in calcium imaging videos](https://openreview.net/forum?id=SkloDjAqYm)
 ===
 
